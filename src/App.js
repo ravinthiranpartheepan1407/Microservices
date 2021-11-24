@@ -5,7 +5,7 @@ import PostLists from'./PostLists';
 const App = () =>{
   return(
   <div>
-  <h3>Microservice Blog</h3>
+  <h3>Microservice Blog - Page Under Development</h3>
   <PostCreate />
   <hr />
   <h1>Posts</h1>
